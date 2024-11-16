@@ -70,4 +70,7 @@ NIM                      : 15123045
 Email Github             : naufalmumtaz49@gmail.com
 Username Github          : mumtazilmi123
 Kesibukan                : Belajar Software, Merenung
-Rencana di waktu dekat   : Mau ngelaprak
+Rencana di waktu dekat   : Mau ngelaprak 
+
+
+Nambahin
