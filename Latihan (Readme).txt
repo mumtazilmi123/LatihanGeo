@@ -64,3 +64,10 @@ Email Github             : rakhmatsenoaji@gmail.com
 Username Github          : RakhmatSenoaji
 Kesibukan                : Videografi senator, appdev, pushrank, mencari pasangan hidup
 Rencana di waktu dekat   : Update CV dan porto
+
+Nama                     : Naufal Mumtaz Ilmi
+NIM                      : 15123045
+Email Github             : naufalmumtaz49@gmail.com
+Username Github          : mumtazilmi123
+Kesibukan                : Belajar Software, Merenung
+Rencana di waktu dekat   : Mau ngelaprak 
